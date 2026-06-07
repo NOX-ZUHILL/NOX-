@@ -7,7 +7,7 @@ local placeid = game.PlaceId
 if placeid == 107646426076756 then
 	loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/d062b00259041783b07237891aae4e29.lua"))()
 elseif placeid == 96645548064314 then
-	loadstring(game:HttpGet("https://pastefy.app/mWeO5GdW/raw"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/NOX-ZUHILL/NOX/refs/heads/main/Nox-Catch%20and%20Tame%20inf%20money.lua"))()
 else
 	game:GetService("StarterGui"):SetCore("SendNotification", {
 		Icon = "rbxassetid://108551171937093",
