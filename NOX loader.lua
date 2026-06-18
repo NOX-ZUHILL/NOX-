@@ -7,7 +7,7 @@ if placeid==107646426076756 or placeid==96645548064314 or placeid==7926839307244
 elseif placeid==83569851223739 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/NOX-ZUHILL/-1-Speed-Evolve/refs/heads/main/%2B1%20Speed%20Evolve.obfuscated.lua"))()
 elseif placeid==97598239454123 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/NOX-ZUHILL/Gag-2-up/refs/heads/main/.lua"))()
+	loadstring(game:HttpGet("https://flowauth.net/v1/loaders/1d6af00854bcc23dabdb08de0d8acfcf.lua"))()
 else
 	game:GetService("StarterGui"):SetCore("SendNotification",{
 		Icon="rbxassetid://108551171937093",
