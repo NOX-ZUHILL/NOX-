@@ -8,8 +8,7 @@ if placeid == 107646426076756 or placeid == 79268393072444 then
 elseif placeid == 83569851223739 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/NOX-ZUHILL/-1-Speed-Evolve/refs/heads/main/%2B1%20Speed%20Evolve.obfuscated.lua"))()
 elseif placeid == 97598239454123 then
-    SCRIPT_KEY = "KEYLESS"
-    loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/bf26c843c358b9f773288c9da2e9e7663a93f4f12d0cf6ecb0aba96dcea011b9/download"))()
+    loadstring(game:HttpGet("https://flowauth.net/v1/loaders/1d6af00854bcc23dabdb08de0d8acfcf.lua"))()
 elseif placeid == 96645548064314 then
     loadstring(game:HttpGet("https://flowauth.net/v1/loaders/0582f26781503dbc19367da1190cb372.lua"))()
 else
