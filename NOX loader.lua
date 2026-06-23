@@ -10,7 +10,7 @@ elseif placeid == 83569851223739 then
 elseif placeid == 97598239454123 then
     loadstring(game:HttpGet("https://flowauth.net/v1/loaders/1d6af00854bcc23dabdb08de0d8acfcf.lua"))()
 elseif placeid == 96645548064314 then
-    loadstring(game:HttpGet("https://flowauth.net/v1/loaders/0582f26781503dbc19367da1190cb372.lua"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/NOX-ZUHILL/CatchandTame/refs/heads/main/Nox%20Example%20Catch%20and%20tame%20mobile%20Support.obfuscated.lua"))()
 else
     game:GetService("StarterGui"):SetCore("SendNotification",{
         Icon = "rbxassetid://108551171937093",
